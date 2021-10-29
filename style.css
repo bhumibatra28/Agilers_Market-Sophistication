@@ -233,6 +233,9 @@ footer{
    .footer-list-1{
        text-align: center;
    }
+   footer-list-2{
+       text-align: center;
+   }
 }
 @media screen and (max-width: 750px){
     .header-head{
@@ -261,6 +264,9 @@ footer{
         max-height:45vh;
     }
     .footer-list-1 li a{
+        font-size:0.6rem;
+    }
+    .footer-list-2 li a{
         font-size:0.6rem;
     }
 }
