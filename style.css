@@ -182,20 +182,11 @@ footer{
 }
 .footer-list-1{
     list-style-type:none;
-    width: 25%;
-    line-height: 1.8;
-}
-.footer-list-2{
-    list-style-type:none;
     width: 50%;
     line-height: 1.8;
+    text-align::center;
 }
 .footer-list-1 li a{
-    text-decoration:none;
-    color:#f1f1ef;
-    font-size:1rem;
-}
-.footer-list-2 li a{
     text-decoration:none;
     color:#f1f1ef;
     font-size:1rem;
@@ -258,9 +249,6 @@ footer{
         max-height:45vh;
     }
     .footer-list-1 li a{
-        font-size:0.6rem;
-    }
-    .footer-list-2 li a{
         font-size:0.6rem;
     }
 }
