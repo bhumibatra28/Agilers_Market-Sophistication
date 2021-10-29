@@ -230,12 +230,6 @@ footer{
    .stage-section{
        justify-content:center;
    }
-   .footer-list-1{
-       text-align: center;
-   }
-   footer-list-2{
-       text-align: center;
-   }
 }
 @media screen and (max-width: 750px){
     .header-head{
